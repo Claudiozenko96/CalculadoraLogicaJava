@@ -23,7 +23,7 @@ public class CalculadoraLogica {
         Scanner in = new Scanner(System.in);
         System.out.print("ingrese el 1er nro: ");
         n1 = in.nextInt();
-        System.out.print("ingrese el 2er nro: ");
+        System.out.print("ingrese el 2do nro: ");
         n2 = in.nextInt();
         suma = n1 + n2;
         System.out.println("El valor de la suma es: " + suma +"\n");
@@ -34,7 +34,7 @@ public class CalculadoraLogica {
         Scanner in = new Scanner(System.in);
         System.out.print("ingrese el 1er nro: ");
         n1 = in.nextInt();
-        System.out.print("ingrese el 2er nro: ");
+        System.out.print("ingrese el 2do nro: ");
         n2 = in.nextInt();
         resta = n1 - n2;
         System.out.println("El valor de la Resta es: " + resta +"\n");
@@ -45,7 +45,7 @@ public class CalculadoraLogica {
         Scanner in = new Scanner(System.in);
         System.out.print("ingrese el 1er nro: ");
         n1 = in.nextInt();
-        System.out.print("ingrese el 2er nro: ");
+        System.out.print("ingrese el 2do nro: ");
         n2 = in.nextInt();
         dividir = n1 / n2;
         System.out.println("El valor de la Resta es: " + dividir +"\n");
@@ -56,7 +56,7 @@ public class CalculadoraLogica {
         Scanner in = new Scanner(System.in);
         System.out.print("ingrese el 1er nro: ");
         n1 = in.nextInt();
-        System.out.print("ingrese el 2er nro: ");
+        System.out.print("ingrese el 2do nro: ");
         n2 = in.nextInt();
         multiplicacion = n1 * n2;
         System.out.println("El valor de la Resta es: " + multiplicacion +"\n");
