@@ -135,6 +135,8 @@ public class CalculadoraLogica {
                 case 8:
                     System.out.println("Saliendo...");
                     break;
+                default:
+                    System.out.println("No Puedes ingresar ese numero");
             }
 
         }while (opciones != 8);
