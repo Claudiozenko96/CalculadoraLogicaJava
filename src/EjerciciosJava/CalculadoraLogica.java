@@ -137,6 +137,7 @@ public class CalculadoraLogica {
                     break;
                 default:
                     System.out.println("No Puedes ingresar ese numero");
+                    break;
             }
 
         }while (opciones != 8);
